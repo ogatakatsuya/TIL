@@ -56,8 +56,13 @@
 ## 2024/4/5
 
 - 勉強時間
+  - 4.0h / 87.0h
 - 作業内容
+  - UdemyのReactの講座　Section10~11
+    - useReducer,useContext, debuggerの使い方
 - メモ
+  - 関数型プログラミングとは何かについて知れた
+    - immurability,純粋性，処理と状態の分離
 
 ## 2024/4/6
 
